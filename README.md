@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mukesh Kumar Ray</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
-<img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" height="300" width="500">
+<img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" height="320" width="500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukesh-kumar-ray&label=Profile%20views&color=0e75b6&style=flat" alt="mukesh-kumar-ray" /> </p>
 
