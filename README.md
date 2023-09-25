@@ -22,7 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukesh-kumar-ray&show_icons=true&locale=en&layout=compact" alt="mukesh-kumar-ray" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukesh-kumar-ray&show_icons=true&locale=en" alt="mukesh-kumar-ray" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-kumar-ray&" alt="mukesh-kumar-ray" /></p>
 
