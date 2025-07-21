@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukesh-kumar-ray&label=Profile%20views&color=0e75b6&style=flat" alt="mukesh-kumar-ray" /> </p>
 
- 🌱 I’m currently learning "Socket.io"</br>
+ 🌱 I’m currently learning "TypeScript and Next.js"</br>
 
  💬 Ask me about "HTML,CSS,JavaScript Reactjs ,Nodejs ,Express , MongoDB ,Multer, Socket.io "</br>
 
